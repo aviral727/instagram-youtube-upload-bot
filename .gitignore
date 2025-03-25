@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+
+# Environment
+.env
+venv/
+env/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Auth & Tokens
+token.pickle
+client_secret.json
+instagram_cookies.pkl
+
+# Downloads & Cache
+downloads/
+uploaded_reels.json
+upload_log.json
